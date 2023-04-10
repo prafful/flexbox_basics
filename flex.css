@@ -1,0 +1,35 @@
+.app{
+    display: flex;
+    border: 1px solid red;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.logo{
+    border: 1px solid purple;
+}
+
+.tweetlist{
+    border: 1px solid orange;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    
+}
+
+.tweet{
+border: 1px solid blue;
+padding: 5px;
+margin: 5px;
+}
+
+h1{
+    border:1px solid pink;
+    text-align: center;
+}
+
+
+h2{
+    border:1px solid yellow;
+}
